@@ -23,10 +23,12 @@ automação) para a construção de soluções com IA.
 ## 🛠️ Tecnologias
 
 **Hardware:** SystemVerilog · Synopsys VCS, SpyGlass, Verdi, Design Compiler
+
 **Software:** Python · Git · Linux
+
 **IA:** RAG · embeddings (E5) · FAISS · LangChain · APIs Gemini e Claude · Streamlit
 
 ## 📫 Contato
 
 - LinkedIn: *(em breve)*
-- E-mail: *(seu e-mail)*
+- E-mail: *raissa.crispim.700@ufrn.edu.br*
